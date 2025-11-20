@@ -70,11 +70,5 @@ Postman	https://www.postman.com/
 This repository is for learning and documentation purposes.
 Suggestions and improvements are welcome — feel free to raise an issue or submit a pull request.
 
-📬 Contact
-
-If you have any doubts or suggestions, connect with me on:
-
-GitHub: https://github.com/yadavasheesh
-Email: asheeshy217@gmail.com
 
 ⭐ If you find this repository helpful, please consider giving it a star!
